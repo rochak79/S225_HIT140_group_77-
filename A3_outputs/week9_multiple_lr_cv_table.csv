@@ -1,0 +1,5 @@
+Model,FeatureSet,CV_RMSE
+Linear,Base,25.1573170486609
+Linear,Base+Rat,25.26901670121891
+Linear,Base+Rat+Moon,25.28644719946419
+Linear,Base+Rat+Moon+Int,25.287566779105553

@@ -1,0 +1,6 @@
+Model,FeatureSet,CV_ROC_AUC
+RandomForest,Richest,0.8494623364809841
+Baseline Logistic,Base,0.8386573753212625
+Logistic + Moon,Base+Rat+Moon,0.8342854977042362
+Logistic + Interaction,Base+Rat+Moon+Int,0.8336875884374368
+Logistic + Rat,Base+Rat,0.8322824439053971

@@ -1,0 +1,4 @@
+x,y,pearson_r,spearman_r,n
+moon_illum,bat_landing_to_food,0.046,0.035,906
+hours_after_sunset,bat_landing_to_food,-0.033,-0.016,906
+rat_minutes_mean,bat_landing_to_food,0.075,0.019,906

@@ -1,0 +1,14 @@
+check,value
+D1 date available,True
+D2 date available,True
+D2 30-min bin (bin30),True
+D1 %date non-null,1.0
+DF %bin30 non-null,
+Join coverage (any D2 context),
+bat_landing_to_food numeric?,True
+hours_after_sunset numeric?,True
+moon_illum numeric?,True
+risk %missing,0.0
+reward %missing,0.0
+season %missing,0.0
+moon_bin %missing,0.0
